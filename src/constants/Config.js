@@ -1,0 +1,1 @@
+export const URL_API = "https://disease.sh/v3/covid-19";

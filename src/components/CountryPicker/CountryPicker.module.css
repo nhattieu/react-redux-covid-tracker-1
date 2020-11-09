@@ -1,0 +1,17 @@
+.select__box {
+
+    min-width: 200px;
+
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+
+    outline: none;
+
+}
+
+.select__box:hover, .select__box:focus {
+    border: none;
+    outline: none;
+
+}

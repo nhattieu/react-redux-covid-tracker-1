@@ -1,0 +1,28 @@
+.container {
+
+    width: 100%;
+    margin: 20px auto;
+    height: 60vh;
+    box-sizing: border-box;
+
+    border: 10px solid #fff;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    
+}
+
+#leaflet {
+    height: 100%;
+}
+
+#leaflet a[title="A JS library for interactive maps"] {
+    display:none;
+}
+
+.flag {
+    width: 200px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
